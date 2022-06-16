@@ -1,0 +1,26 @@
+h1 {
+background-color: black;
+color:aqua;
+height: 70px;
+
+}
+span {
+    color: white;
+}
+
+h2 {
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    height: 80px;
+    }
+
+h3 {
+    background-color: skyblue;
+    text-align: right;
+    text-decoration: underline;
+    color: darkmagenta;
+    height: 30px;
+    
+}
